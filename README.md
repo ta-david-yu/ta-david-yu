@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ta-david-yu
+- 👀 I’m interested in game development, specifically gameplay/tools programming
+- 📫 Here is my portfolio website https://ta-david-yu.github.io/
