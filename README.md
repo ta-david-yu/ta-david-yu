@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @ta-david-yu
 - 👀 I’m interested in game development, specifically gameplay/tools/engine programming. I have experience in console porting with Unity as well (Nintendo Switch/Xbox One)
 - 📫 Here is my portfolio website https://ta-david-yu.github.io/
-- 🎮 Working on my 2D game engine - [DYEngine](https://github.com/ta-david-yu/DYEngine)
